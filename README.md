@@ -12,7 +12,6 @@ __Playtime__
 **Write-up**
 Done by 
 * [Dylan](https://github.com/Dylan-Liew)
-* [Joel](https://github.com/j041)
 
 **Results**
 ![](./score.png)
