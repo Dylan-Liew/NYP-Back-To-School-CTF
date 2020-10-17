@@ -9,7 +9,7 @@ CTF Hosted by NYP InfoSec
 __Playtime__
 - 17/10/2020 12:00PM-6:00PM
 
-**Writeup**
+**Write-up**
 Done by 
 * [Dylan](https://github.com/Dylan-Liew)
 * [Joel](https://github.com/j041)
